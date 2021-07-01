@@ -1,0 +1,126 @@
+/**
+ * @Author: John Isaacs <john>
+ * @Date:   27-Sep-172017
+ * @Filename: svgstyle.css
+ * @Last modified by:   john
+ * @Last modified time: 18-Dec-172017
+ */
+
+
+
+body{
+
+}
+SVG {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+#info{
+  float:left;
+  /*background-color: #c2c2c2;*/
+  width : 300px;
+  height: 100px;
+  display:block;
+  z-index: 1;
+  margin:40px;
+  position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#infoPanel {
+
+}
+#graph{
+  position: relative;
+    left: 0;
+    top: 0;
+
+  width:100% !important;
+  height:100% !important;
+  overflow: hidden;
+
+}
+rect {
+  cursor: pointer;
+}
+
+  .node {
+    cursor: pointer;
+
+  }
+
+
+  .node circle {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 3px;
+  }
+
+  .node text {
+    font: 10px sans-serif;
+    pointer-events: visiblePainted !important;
+  }
+
+  path.link {
+    visibility:hidden !important;
+    stroke-opacity:0.1 !important;
+
+    /*stroke-dasharray: 10 !important;*/
+
+  }
+
+
+  /*number of platfroms visited */
+  path.count1 {
+
+    /*stroke-dasharray: 0 !important;*/
+
+  }
+
+  /*number of platfroms visited */
+  path.showLinkMultiPlat {
+    stroke-opacity:0.5 !important;
+    visibility:visible !important;
+
+
+  }
+  path.showLinkSinglePlat {
+    stroke-opacity:0.5 !important;
+    visibility:visible !important;
+
+
+  }
+/*number of companies*/
+  path.multi0 {
+    stroke-opacity:0.2 !important;
+  }
+  /*number of companies*/
+    path.showLinkMultiOper {
+
+      stroke-opacity:0.5 !important;
+      visibility:visible !important;
+
+    }
+    path.showLinkSingleOper {
+
+      stroke-opacity:0.5 !important;
+      visibility:visible !important;
+
+    }
+
+    /*number of companies*/
+      path.showLink {
+
+        stroke-opacity:0.5 !important;
+        visibility:visible !important;
+
+      }
+
+
+  path.selectedLink {
+    stroke-opacity:1 !important;
+    visibility:visible !important;
+  }

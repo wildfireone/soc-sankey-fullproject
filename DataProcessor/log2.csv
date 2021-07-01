@@ -1,0 +1,435 @@
+﻿target, source, value
+2.1.1 Knowledge and understanding of facts concepts principles and theories,CM1100 Introduction to Computing,1
+2.1.1 Knowledge and understanding of facts concepts principles and theories,CM1101 Computing Information Systems,1
+2.1.1 Knowledge and understanding of facts concepts principles and theories,CM1102 Problem Solving And Modelling,1
+2.1.1 Knowledge and understanding of facts concepts principles and theories,CM1103 Computer Systems & Networking,1
+2.1.1 Knowledge and understanding of facts concepts principles and theories,CM1104 Object Oriented Programming,1
+2.1.2 Use of such knowledge in modelling and design,CM1101 Computing Information Systems,1
+2.1.2 Use of such knowledge in modelling and design,CM1102 Problem Solving And Modelling,1
+2.1.2 Use of such knowledge in modelling and design,CM1104 Object Oriented Programming,1
+2.1.3 Problem solving strategies,CM1100 Introduction to Computing,1
+2.1.3 Problem solving strategies,CM1102 Problem Solving And Modelling,1
+2.1.3 Problem solving strategies,CM1104 Object Oriented Programming,1
+2.1.4 Analyse if or how a system meets current and future requirements,CM1100 Introduction to Computing,1
+2.1.4 Analyse if or how a system meets current and future requirements,CM1101 Computing Information Systems,1
+2.1.4 Analyse if or how a system meets current and future requirements,CM1102 Problem Solving And Modelling,1
+2.1.4 Analyse if or how a system meets current and future requirements,CM1104 Object Oriented Programming,1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM1104 Object Oriented Programming,1
+2.1.6 Recognise legal social ethical and professional issues,CM1101 Computing Information Systems,1
+2.1.9 Knowledge of information security issues,CM1101 Computing Information Systems,1
+2.1.9 Knowledge of information security issues,CM1104 Object Oriented Programming,1
+2.2.1 Specify design or construct computer-based systems,CM1100 Introduction to Computing,1
+2.2.1 Specify design or construct computer-based systems,CM1101 Computing Information Systems,1
+2.2.1 Specify design or construct computer-based systems,CM1104 Object Oriented Programming,1
+2.2.2 Evaluate systems in terms of quality and trade-offs,CM1101 Computing Information Systems,1
+2.2.3 Recognise risk/safety for safe operation of computing and information systems,CM1101 Computing Information Systems,1
+2.2.3 Recognise risk/safety for safe operation of computing and information systems,CM1104 Object Oriented Programming,1
+2.2.4 Deploy tools effectively,CM1104 Object Oriented Programming,1
+2.3.1 Work as a member of a development team,CM1101 Computing Information Systems,1
+2.3.1 Work as a member of a development team,CM1102 Problem Solving And Modelling,1
+2.3.2 Development of general transferable skills,CM1100 Introduction to Computing,1
+2.3.2 Development of general transferable skills,CM1101 Computing Information Systems,1
+2.3.2 Development of general transferable skills,CM1102 Problem Solving And Modelling,1
+3.1.2 Methods techniques and tools for information modelling management and security,CM1101 Computing Information Systems,1
+3.1.2 Methods techniques and tools for information modelling management and security,CM1104 Object Oriented Programming,1
+3.1.3 Knowledge of systems architecture,CM1103 Computer Systems & Networking,1
+3.1.3 Knowledge of systems architecture,CM1104 Object Oriented Programming,1
+3.1.4 Knowledge and understanding of mathematical and/or statistical principles ,CM1102 Problem Solving And Modelling,1
+3.2.1 Specify deploy verify and maintain information systems,CM1101 Computing Information Systems,1
+3.2.1 Specify deploy verify and maintain information systems,CM1104 Object Oriented Programming,1
+3.2.3 System Design,CM1102 Problem Solving And Modelling,1
+3.2.3 System Design,CM1104 Object Oriented Programming,1
+4.1.1 Knowledge and understanding of scientific and engineering principles,CM1104 Object Oriented Programming,1
+4.1.2 Knowledge and understanding of mathematical and statistical principles,CM1102 Problem Solving And Modelling,1
+4.1.3 Knowledge and understanding of computational modelling,CM1104 Object Oriented Programming,1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM1100 Introduction to Computing,1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM1101 Computing Information Systems,1
+4.2.3 Principles of appropriate supporting engineering and scientific disciplines,CM1104 Object Oriented Programming,1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM2100 Advanced Software Design and Development,1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM2101 Database Systems,1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM2103 Routing and Switching,1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM2110 Internet of Things,1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM2104 Dynamic Web Development,1
+2.1.2 Use of such knowledge in modelling and design,CM2100 Advanced Software Design and Development,1
+2.1.2 Use of such knowledge in modelling and design,CM2101 Database Systems,1
+2.1.2 Use of such knowledge in modelling and design,CM2103 Routing and Switching,1
+2.1.2 Use of such knowledge in modelling and design,CM2110 Internet of Things,1
+2.1.3 Problem solving strategies,CM2100 Advanced Software Design and Development,1
+2.1.3 Problem solving strategies,CM2101 Database Systems,1
+2.1.3 Problem solving strategies,CM2112 Real World Project and Professional Skills,1
+2.1.3 Problem solving strategies,CM2103 Routing and Switching,1
+2.1.3 Problem solving strategies,CM2110 Internet of Things,1
+2.1.4 Analyse if/how a system meets current and future requirements,CM2100 Advanced Software Design and Development,1
+2.1.4 Analyse if/how a system meets current and future requirements,CM2101 Database Systems,1
+2.1.4 Analyse if/how a system meets current and future requirements,CM2112 Real World Project and Professional Skills,1
+2.1.4 Analyse if/how a system meets current and future requirements,CM2110 Internet of Things,1
+2.1.4 Analyse if/how a system meets current and future requirements,CM2104 Dynamic Web Development,1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM2100 Advanced Software Design and Development,1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM2101 Database Systems,1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM2112 Real World Project and Professional Skills,1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM2103 Routing and Switching,1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM2110 Internet of Things,1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM2104 Dynamic Web Development,1
+2.1.6 Recognise legal social ethical & professional issues,CM2112 Real World Project and Professional Skills,1
+2.1.7 Knowledge and understanding of commercial and economic issues,CM2101 Database Systems,1
+2.1.7 Knowledge and understanding of commercial and economic issues,CM2104 Dynamic Web Development,1
+2.1.8 Knowledge of management techniques to achieve objectives,CM2112 Real World Project and Professional Skills,1
+2.1.8 Knowledge of management techniques to achieve objectives,CM2103 Routing and Switching,1
+2.1.9 Knowledge of information security issues,CM2100 Advanced Software Design and Development,1
+2.1.9 Knowledge of information security issues,CM2103 Routing and Switching,1
+2.2.1 Specify design or construct computer-based systems,CM2100 Advanced Software Design and Development,1
+2.2.1 Specify design or construct computer-based systems,CM2101 Database Systems,1
+2.2.1 Specify design or construct computer-based systems,CM2112 Real World Project and Professional Skills,1
+2.2.1 Specify design or construct computer-based systems,CM2103 Routing and Switching,1
+2.2.1 Specify design or construct computer-based systems,CM2110 Internet of Things,1
+2.2.1 Specify design or construct computer-based systems,CM2104 Dynamic Web Development,1
+2.2.2 Evaluate systems in terms of quality and trade-offs,CM2100 Advanced Software Design and Development,1
+2.2.2 Evaluate systems in terms of quality and trade-offs,CM2101 Database Systems,1
+2.2.2 Evaluate systems in terms of quality and trade-offs,CM2103 Routing and Switching,1
+2.2.2 Evaluate systems in terms of quality and trade-offs,CM2110 Internet of Things,1
+2.2.4 Deploy tools effectively,CM2100 Advanced Software Design and Development,1
+2.2.4 Deploy tools effectively,CM2101 Database Systems,1
+2.2.4 Deploy tools effectively,CM2112 Real World Project and Professional Skills,1
+2.2.4 Deploy tools effectively,CM2103 Routing and Switching,1
+2.2.4 Deploy tools effectively,CM2110 Internet of Things,1
+2.2.4 Deploy tools effectively,CM2104 Dynamic Web Development,1
+2.3.1 Work as a member of a development team,CM2112 Real World Project and Professional Skills,1
+2.3.1 Work as a member of a development team,CM2110 Internet of Things,1
+2.3.1 Work as a member of a development team,CM2104 Dynamic Web Development,1
+2.3.2 Development of general transferable skills,CM2100 Advanced Software Design and Development,1
+2.3.2 Development of general transferable skills,CM2112 Real World Project and Professional Skills,1
+2.3.2 Development of general transferable skills,CM2103 Routing and Switching,1
+2.3.2 Development of general transferable skills,CM2104 Dynamic Web Development,1
+3.1.1 Deploy systems to meet business goals,CM2100 Advanced Software Design and Development,1
+3.1.1 Deploy systems to meet business goals,CM2101 Database Systems,1
+3.1.1 Deploy systems to meet business goals,CM2112 Real World Project and Professional Skills,1
+3.1.1 Deploy systems to meet business goals,CM2103 Routing and Switching,1
+3.1.1 Deploy systems to meet business goals,CM2104 Dynamic Web Development,1
+3.1.2 Methods techniques and tools for information modelling management and security,CM2100 Advanced Software Design and Development,1
+3.1.2 Methods techniques and tools for information modelling management and security,CM2101 Database Systems,1
+3.1.2 Methods techniques and tools for information modelling management and security,CM2103 Routing and Switching,1
+3.1.2 Methods techniques and tools for information modelling management and security,CM2104 Dynamic Web Development,1
+3.1.3 Knowledge of systems architecture,CM2101 Database Systems,1
+3.1.3 Knowledge of systems architecture,CM2110 Internet of Things,1
+3.1.3 Knowledge of systems architecture,CM2104 Dynamic Web Development,1
+3.1.4 Knowledge and understanding of mathematical and/or statistical principles ,CM2100 Advanced Software Design and Development,1
+3.1.4 Knowledge and understanding of mathematical and/or statistical principles ,CM2101 Database Systems,1
+3.2.1 Specify deploy verify and maintain information systems,CM2100 Advanced Software Design and Development,1
+3.2.1 Specify deploy verify and maintain information systems,CM2101 Database Systems,1
+3.2.1 Specify deploy verify and maintain information systems,CM2112 Real World Project and Professional Skills,1
+3.2.1 Specify deploy verify and maintain information systems,CM2103 Routing and Switching,1
+3.2.1 Specify deploy verify and maintain information systems,CM2104 Dynamic Web Development,1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM2100 Advanced Software Design and Development,1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM2112 Real World Project and Professional Skills,1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM2103 Routing and Switching,1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM2110 Internet of Things,1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM2104 Dynamic Web Development,1
+3.2.3 System Design,CM2100 Advanced Software Design and Development,1
+3.2.3 System Design,CM2101 Database Systems,1
+3.2.3 System Design,CM2112 Real World Project and Professional Skills,1
+3.2.3 System Design,CM2103 Routing and Switching,1
+3.2.3 System Design,CM2110 Internet of Things,1
+3.2.3 System Design,CM2104 Dynamic Web Development,1
+4.1.1 Knowledge and understanding of scientific and engineering principles,CM2101 Database Systems,1
+4.1.1 Knowledge and understanding of scientific and engineering principles,CM2103 Routing and Switching,1
+4.1.2 Knowledge and understanding of mathematical and statistical principles,CM2100 Advanced Software Design and Development,1
+4.1.2 Knowledge and understanding of mathematical and statistical principles,CM2101 Database Systems,1
+4.1.3 Knowledge and understanding of computational modelling,CM2101 Database Systems,1
+4.1.3 Knowledge and understanding of computational modelling,CM2103 Routing and Switching,1
+4.1.3 Knowledge and understanding of computational modelling,CM2110 Internet of Things,1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM2100 Advanced Software Design and Development,1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM2101 Database Systems,1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM2112 Real World Project and Professional Skills,1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM2103 Routing and Switching,1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM2110 Internet of Things,1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM2104 Dynamic Web Development,1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM2100 Advanced Software Design and Development,1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM2112 Real World Project and Professional Skills,1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM2103 Routing and Switching,1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM2110 Internet of Things,1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM2104 Dynamic Web Development,1
+4.2.3 Principles of appropriate supporting engineering and scientific disciplines,CM2101 Database Systems,1
+4.2.3 Principles of appropriate supporting engineering and scientific disciplines,CM2110 Internet of Things,1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM3102 Operating Systems,1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM3104 Computer Security and Cryptography,1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM3105 Web Security (see comment),1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM3108 Software Engineering And Project Management,1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM3110 Mobile App Development,1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM3111 Big Data Analytics (see comment),1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM3115 C++ for Graphics (see comment),1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM3113 Concurrent Programming,1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM3116 Graphics Development (see comment),1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM3038 Artificial Intellikgence for Problem Solving,1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM3112 3D Modelling (see comment),1
+2.1.2 Use of such knowledge in modelling and design,CM3104 Computer Security and Cryptography,1
+2.1.2 Use of such knowledge in modelling and design,CM3108 Software Engineering And Project Management,1
+2.1.2 Use of such knowledge in modelling and design,CM3110 Mobile App Development,1
+2.1.2 Use of such knowledge in modelling and design,CM3111 Big Data Analytics (see comment),1
+2.1.2 Use of such knowledge in modelling and design,CM3115 C++ for Graphics (see comment),1
+2.1.2 Use of such knowledge in modelling and design,CM3113 Concurrent Programming,1
+2.1.2 Use of such knowledge in modelling and design,CM3116 Graphics Development (see comment),1
+2.1.2 Use of such knowledge in modelling and design,CM3038 Artificial Intellikgence for Problem Solving,1
+2.1.2 Use of such knowledge in modelling and design,CM3112 3D Modelling (see comment),1
+2.1.3 Problem solving strategies,CM3102 Operating Systems,1
+2.1.3 Problem solving strategies,CM3105 Web Security (see comment),1
+2.1.3 Problem solving strategies,CM3108 Software Engineering And Project Management,1
+2.1.3 Problem solving strategies,CM3110 Mobile App Development,1
+2.1.3 Problem solving strategies,CM3111 Big Data Analytics (see comment),1
+2.1.3 Problem solving strategies,CM3115 C++ for Graphics (see comment),1
+2.1.3 Problem solving strategies,CM3113 Concurrent Programming,1
+2.1.3 Problem solving strategies,CM3116 Graphics Development (see comment),1
+2.1.3 Problem solving strategies,CM3038 Artificial Intellikgence for Problem Solving,1
+2.1.4 Analyse if/how a system meets current and future requirements,CM3102 Operating Systems,1
+2.1.4 Analyse if/how a system meets current and future requirements,CM3104 Computer Security and Cryptography,1
+2.1.4 Analyse if/how a system meets current and future requirements,CM3110 Mobile App Development,1
+2.1.4 Analyse if/how a system meets current and future requirements,CM3111 Big Data Analytics (see comment),1
+2.1.4 Analyse if/how a system meets current and future requirements,CM3115 C++ for Graphics (see comment),1
+2.1.4 Analyse if/how a system meets current and future requirements,CM3113 Concurrent Programming,1
+2.1.4 Analyse if/how a system meets current and future requirements,CM3116 Graphics Development (see comment),1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM3102 Operating Systems,1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM3104 Computer Security and Cryptography,1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM3113 Concurrent Programming,1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM3038 Artificial Intellikgence for Problem Solving,1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM3112 3D Modelling (see comment),1
+2.1.6 Recognise legal social ethical & professional issues,CM3104 Computer Security and Cryptography,1
+2.1.6 Recognise legal social ethical & professional issues,CM3108 Software Engineering And Project Management,1
+2.1.7 Knowledge and understanding of commercial and economic issues,CM3102 Operating Systems,1
+2.1.7 Knowledge and understanding of commercial and economic issues,CM3110 Mobile App Development,1
+2.1.8 Knowledge of management techniques to achieve objectives,CM3102 Operating Systems,1
+2.1.8 Knowledge of management techniques to achieve objectives,CM3104 Computer Security and Cryptography,1
+2.1.8 Knowledge of management techniques to achieve objectives,CM3105 Web Security (see comment),1
+2.1.8 Knowledge of management techniques to achieve objectives,CM3108 Software Engineering And Project Management,1
+2.1.8 Knowledge of management techniques to achieve objectives,CM3115 C++ for Graphics (see comment),1
+2.1.8 Knowledge of management techniques to achieve objectives,CM3116 Graphics Development (see comment),1
+2.1.9 Knowledge of information security issues,CM3102 Operating Systems,1
+2.1.9 Knowledge of information security issues,CM3104 Computer Security and Cryptography,1
+2.1.9 Knowledge of information security issues,CM3105 Web Security (see comment),1
+2.1.9 Knowledge of information security issues,CM3108 Software Engineering And Project Management,1
+2.1.9 Knowledge of information security issues,CM3110 Mobile App Development,1
+2.1.9 Knowledge of information security issues,CM3113 Concurrent Programming,1
+2.2.1 Specify design or construct computer-based systems,CM3102 Operating Systems,1
+2.2.1 Specify design or construct computer-based systems,CM3110 Mobile App Development,1
+2.2.1 Specify design or construct computer-based systems,CM3115 C++ for Graphics (see comment),1
+2.2.1 Specify design or construct computer-based systems,CM3113 Concurrent Programming,1
+2.2.1 Specify design or construct computer-based systems,CM3116 Graphics Development (see comment),1
+2.2.1 Specify design or construct computer-based systems,CM3038 Artificial Intellikgence for Problem Solving,1
+2.2.2 Evaluate systems in terms of quality and trade-offs,CM3104 Computer Security and Cryptography,1
+2.2.2 Evaluate systems in terms of quality and trade-offs,CM3105 Web Security (see comment),1
+2.2.2 Evaluate systems in terms of quality and trade-offs,CM3108 Software Engineering And Project Management,1
+2.2.2 Evaluate systems in terms of quality and trade-offs,CM3113 Concurrent Programming,1
+2.2.2 Evaluate systems in terms of quality and trade-offs,CM3038 Artificial Intellikgence for Problem Solving,1
+2.2.2 Evaluate systems in terms of quality and trade-offs,CM3112 3D Modelling (see comment),1
+2.2.3 Recognise risk/safety for safe operation of computing and information systems,CM3102 Operating Systems,1
+2.2.3 Recognise risk/safety for safe operation of computing and information systems,CM3104 Computer Security and Cryptography,1
+2.2.3 Recognise risk/safety for safe operation of computing and information systems,CM3108 Software Engineering And Project Management,1
+2.2.3 Recognise risk/safety for safe operation of computing and information systems,CM3113 Concurrent Programming,1
+2.2.4 Deploy tools effectively,CM3102 Operating Systems,1
+2.2.4 Deploy tools effectively,CM3104 Computer Security and Cryptography,1
+2.2.4 Deploy tools effectively,CM3105 Web Security (see comment),1
+2.2.4 Deploy tools effectively,CM3108 Software Engineering And Project Management,1
+2.2.4 Deploy tools effectively,CM3110 Mobile App Development,1
+2.2.4 Deploy tools effectively,CM3111 Big Data Analytics (see comment),1
+2.2.4 Deploy tools effectively,CM3115 C++ for Graphics (see comment),1
+2.2.4 Deploy tools effectively,CM3113 Concurrent Programming,1
+2.2.4 Deploy tools effectively,CM3116 Graphics Development (see comment),1
+2.2.4 Deploy tools effectively,CM3112 3D Modelling (see comment),1
+2.3.1 Work as a member of a development team,CM3108 Software Engineering And Project Management,1
+2.3.1 Work as a member of a development team,CM3112 3D Modelling (see comment),1
+2.3.2 Development of general transferable skills,CM3102 Operating Systems,1
+2.3.2 Development of general transferable skills,CM3108 Software Engineering And Project Management,1
+2.3.2 Development of general transferable skills,CM3111 Big Data Analytics (see comment),1
+2.3.2 Development of general transferable skills,CM3115 C++ for Graphics (see comment),1
+2.3.2 Development of general transferable skills,CM3113 Concurrent Programming,1
+2.3.2 Development of general transferable skills,CM3116 Graphics Development (see comment),1
+2.3.2 Development of general transferable skills,CM3038 Artificial Intellikgence for Problem Solving,1
+2.3.2 Development of general transferable skills,CM3112 3D Modelling (see comment),1
+3.1.1 Deploy systems to meet business goals,CM3102 Operating Systems,1
+3.1.1 Deploy systems to meet business goals,CM3104 Computer Security and Cryptography,1
+3.1.1 Deploy systems to meet business goals,CM3108 Software Engineering And Project Management,1
+3.1.1 Deploy systems to meet business goals,CM3113 Concurrent Programming,1
+3.1.2 Methods techniques and tools for information modelling management and security,CM3102 Operating Systems,1
+3.1.2 Methods techniques and tools for information modelling management and security,CM3105 Web Security (see comment),1
+3.1.2 Methods techniques and tools for information modelling management and security,CM3111 Big Data Analytics (see comment),1
+3.1.2 Methods techniques and tools for information modelling management and security,CM3113 Concurrent Programming,1
+3.1.2 Methods techniques and tools for information modelling management and security,CM3038 Artificial Intellikgence for Problem Solving,1
+3.1.3 Knowledge of systems architecture,CM3102 Operating Systems,1
+3.1.3 Knowledge of systems architecture,CM3105 Web Security (see comment),1
+3.1.3 Knowledge of systems architecture,CM3110 Mobile App Development,1
+3.1.3 Knowledge of systems architecture,CM3113 Concurrent Programming,1
+3.1.4 Knowledge and understanding of mathematical and/or statistical principles ,CM3104 Computer Security and Cryptography,1
+3.1.4 Knowledge and understanding of mathematical and/or statistical principles ,CM3111 Big Data Analytics (see comment),1
+3.1.4 Knowledge and understanding of mathematical and/or statistical principles ,CM3115 C++ for Graphics (see comment),1
+3.1.4 Knowledge and understanding of mathematical and/or statistical principles ,CM3113 Concurrent Programming,1
+3.1.4 Knowledge and understanding of mathematical and/or statistical principles ,CM3116 Graphics Development (see comment),1
+3.1.4 Knowledge and understanding of mathematical and/or statistical principles ,CM3038 Artificial Intellikgence for Problem Solving,1
+3.1.4 Knowledge and understanding of mathematical and/or statistical principles ,CM3112 3D Modelling (see comment),1
+3.2.1 Specify deploy verify and maintain information systems,CM3102 Operating Systems,1
+3.2.1 Specify deploy verify and maintain information systems,CM3104 Computer Security and Cryptography,1
+3.2.1 Specify deploy verify and maintain information systems,CM3105 Web Security (see comment),1
+3.2.1 Specify deploy verify and maintain information systems,CM3113 Concurrent Programming,1
+3.2.1 Specify deploy verify and maintain information systems,CM3038 Artificial Intellikgence for Problem Solving,1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM3102 Operating Systems,1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM3104 Computer Security and Cryptography,1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM3108 Software Engineering And Project Management,1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM3111 Big Data Analytics (see comment),1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM3115 C++ for Graphics (see comment),1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM3113 Concurrent Programming,1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM3116 Graphics Development (see comment),1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM3038 Artificial Intellikgence for Problem Solving,1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM3112 3D Modelling (see comment),1
+3.2.3 System Design,CM3102 Operating Systems,1
+3.2.3 System Design,CM3108 Software Engineering And Project Management,1
+3.2.3 System Design,CM3110 Mobile App Development,1
+3.2.3 System Design,CM3113 Concurrent Programming,1
+4.1.1 Knowledge and understanding of scientific and engineering principles,CM3104 Computer Security and Cryptography,1
+4.1.1 Knowledge and understanding of scientific and engineering principles,CM3113 Concurrent Programming,1
+4.1.1 Knowledge and understanding of scientific and engineering principles,CM3038 Artificial Intellikgence for Problem Solving,1
+4.1.1 Knowledge and understanding of scientific and engineering principles,CM3112 3D Modelling (see comment),1
+4.1.2 Knowledge and understanding of mathematical and statistical principles,CM3104 Computer Security and Cryptography,1
+4.1.2 Knowledge and understanding of mathematical and statistical principles,CM3111 Big Data Analytics (see comment),1
+4.1.2 Knowledge and understanding of mathematical and statistical principles,CM3113 Concurrent Programming,1
+4.1.2 Knowledge and understanding of mathematical and statistical principles,CM3038 Artificial Intellikgence for Problem Solving,1
+4.1.3 Knowledge and understanding of computational modelling,CM3111 Big Data Analytics (see comment),1
+4.1.3 Knowledge and understanding of computational modelling,CM3038 Artificial Intellikgence for Problem Solving,1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM3102 Operating Systems,1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM3104 Computer Security and Cryptography,1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM3105 Web Security (see comment),1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM3115 C++ for Graphics (see comment),1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM3113 Concurrent Programming,1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM3116 Graphics Development (see comment),1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM3038 Artificial Intellikgence for Problem Solving,1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM3102 Operating Systems,1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM3104 Computer Security and Cryptography,1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM3108 Software Engineering And Project Management,1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM3111 Big Data Analytics (see comment),1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM3115 C++ for Graphics (see comment),1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM3113 Concurrent Programming,1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM3116 Graphics Development (see comment),1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM3038 Artificial Intellikgence for Problem Solving,1
+4.2.3 Principles of appropriate supporting engineering and scientific disciplines,CM3104 Computer Security and Cryptography,1
+4.2.3 Principles of appropriate supporting engineering and scientific disciplines,CM3038 Artificial Intellikgence for Problem Solving,1
+4.2.3 Principles of appropriate supporting engineering and scientific disciplines,CM3112 3D Modelling (see comment),1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM4103 Ethical Hacking (see comment),1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM4105 Honours Individual Project,1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM4106 Languages and Compilers,1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM4107 Advanced Artificial Intelligence,1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM4108 Cloud Computing (see comment),1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM4110 Human Computer Interaction,1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM4114 Games Development (see comment),1
+2.1.1 Knowledge and  understanding of facts concepts principles and theories,CM4025 Enterprise Web Systems,1
+2.1.2 Use of such knowledge in modelling and design,CM4105 Honours Individual Project,1
+2.1.2 Use of such knowledge in modelling and design,CM4106 Languages and Compilers,1
+2.1.2 Use of such knowledge in modelling and design,CM4108 Cloud Computing (see comment),1
+2.1.2 Use of such knowledge in modelling and design,CM4110 Human Computer Interaction,1
+2.1.2 Use of such knowledge in modelling and design,CM4114 Games Development (see comment),1
+2.1.2 Use of such knowledge in modelling and design,CM4025 Enterprise Web Systems,1
+2.1.3 Problem solving strategies,CM4103 Ethical Hacking (see comment),1
+2.1.3 Problem solving strategies,CM4105 Honours Individual Project,1
+2.1.3 Problem solving strategies,CM4108 Cloud Computing (see comment),1
+2.1.3 Problem solving strategies,CM4114 Games Development (see comment),1
+2.1.4 Analyse if/how a system meets current and future requirements,CM4103 Ethical Hacking (see comment),1
+2.1.4 Analyse if/how a system meets current and future requirements,CM4105 Honours Individual Project,1
+2.1.4 Analyse if/how a system meets current and future requirements,CM4106 Languages and Compilers,1
+2.1.4 Analyse if/how a system meets current and future requirements,CM4108 Cloud Computing (see comment),1
+2.1.4 Analyse if/how a system meets current and future requirements,CM4110 Human Computer Interaction,1
+2.1.4 Analyse if/how a system meets current and future requirements,CM4114 Games Development (see comment),1
+2.1.4 Analyse if/how a system meets current and future requirements,CM4025 Enterprise Web Systems,1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM4103 Ethical Hacking (see comment),1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM4105 Honours Individual Project,1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM4106 Languages and Compilers,1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM4107 Advanced Artificial Intelligence,1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM4108 Cloud Computing (see comment),1
+2.1.5 Deploy theory in design implementation and evaluation of systems,CM4114 Games Development (see comment),1
+2.1.6 Recognise legal social ethical & professional issues,CM4103 Ethical Hacking (see comment),1
+2.1.6 Recognise legal social ethical & professional issues,CM4105 Honours Individual Project,1
+2.1.6 Recognise legal social ethical & professional issues,CM4107 Advanced Artificial Intelligence,1
+2.1.6 Recognise legal social ethical & professional issues,CM4108 Cloud Computing (see comment),1
+2.1.6 Recognise legal social ethical & professional issues,CM4110 Human Computer Interaction,1
+2.1.6 Recognise legal social ethical & professional issues,CM4114 Games Development (see comment),1
+2.1.6 Recognise legal social ethical & professional issues,CM4025 Enterprise Web Systems,1
+2.1.7 Knowledge and understanding of commercial and economic issues,CM4103 Ethical Hacking (see comment),1
+2.1.7 Knowledge and understanding of commercial and economic issues,CM4105 Honours Individual Project,1
+2.1.7 Knowledge and understanding of commercial and economic issues,CM4108 Cloud Computing (see comment),1
+2.1.7 Knowledge and understanding of commercial and economic issues,CM4025 Enterprise Web Systems,1
+2.1.8 Knowledge of management techniques to achieve objectives,CM4105 Honours Individual Project,1
+2.1.9 Knowledge of information security issues,CM4103 Ethical Hacking (see comment),1
+2.1.9 Knowledge of information security issues,CM4105 Honours Individual Project,1
+2.1.9 Knowledge of information security issues,CM4108 Cloud Computing (see comment),1
+2.1.9 Knowledge of information security issues,CM4025 Enterprise Web Systems,1
+2.2.1 Specify design or construct computer-based systems,CM4103 Ethical Hacking (see comment),1
+2.2.1 Specify design or construct computer-based systems,CM4105 Honours Individual Project,1
+2.2.1 Specify design or construct computer-based systems,CM4106 Languages and Compilers,1
+2.2.1 Specify design or construct computer-based systems,CM4107 Advanced Artificial Intelligence,1
+2.2.1 Specify design or construct computer-based systems,CM4108 Cloud Computing (see comment),1
+2.2.1 Specify design or construct computer-based systems,CM4110 Human Computer Interaction,1
+2.2.1 Specify design or construct computer-based systems,CM4114 Games Development (see comment),1
+2.2.1 Specify design or construct computer-based systems,CM4025 Enterprise Web Systems,1
+2.2.2 Evaluate systems in terms of quality and trade-offs,CM4103 Ethical Hacking (see comment),1
+2.2.2 Evaluate systems in terms of quality and trade-offs,CM4105 Honours Individual Project,1
+2.2.2 Evaluate systems in terms of quality and trade-offs,CM4108 Cloud Computing (see comment),1
+2.2.2 Evaluate systems in terms of quality and trade-offs,CM4110 Human Computer Interaction,1
+2.2.2 Evaluate systems in terms of quality and trade-offs,CM4025 Enterprise Web Systems,1
+2.2.3 Recognise risk/safety for safe operation of computing and information systems,CM4103 Ethical Hacking (see comment),1
+2.2.3 Recognise risk/safety for safe operation of computing and information systems,CM4105 Honours Individual Project,1
+2.2.3 Recognise risk/safety for safe operation of computing and information systems,CM4108 Cloud Computing (see comment),1
+2.2.3 Recognise risk/safety for safe operation of computing and information systems,CM4110 Human Computer Interaction,1
+2.2.3 Recognise risk/safety for safe operation of computing and information systems,CM4114 Games Development (see comment),1
+2.2.4 Deploy tools effectively,CM4103 Ethical Hacking (see comment),1
+2.2.4 Deploy tools effectively,CM4105 Honours Individual Project,1
+2.2.4 Deploy tools effectively,CM4108 Cloud Computing (see comment),1
+2.2.4 Deploy tools effectively,CM4114 Games Development (see comment),1
+2.3.2 Development of general transferable skills,CM4105 Honours Individual Project,1
+2.3.2 Development of general transferable skills,CM4108 Cloud Computing (see comment),1
+2.3.2 Development of general transferable skills,CM4110 Human Computer Interaction,1
+2.3.2 Development of general transferable skills,CM4114 Games Development (see comment),1
+3.1.1 Deploy systems to meet business goals,CM4103 Ethical Hacking (see comment),1
+3.1.1 Deploy systems to meet business goals,CM4105 Honours Individual Project,1
+3.1.1 Deploy systems to meet business goals,CM4108 Cloud Computing (see comment),1
+3.1.1 Deploy systems to meet business goals,CM4025 Enterprise Web Systems,1
+3.1.2 Methods techniques and tools for information modelling management and security,CM4103 Ethical Hacking (see comment),1
+3.1.2 Methods techniques and tools for information modelling management and security,CM4105 Honours Individual Project,1
+3.1.2 Methods techniques and tools for information modelling management and security,CM4108 Cloud Computing (see comment),1
+3.1.2 Methods techniques and tools for information modelling management and security,CM4110 Human Computer Interaction,1
+3.1.2 Methods techniques and tools for information modelling management and security,CM4025 Enterprise Web Systems,1
+3.1.3 Knowledge of systems architecture,CM4105 Honours Individual Project,1
+3.1.3 Knowledge of systems architecture,CM4106 Languages and Compilers,1
+3.1.3 Knowledge of systems architecture,CM4108 Cloud Computing (see comment),1
+3.1.3 Knowledge of systems architecture,CM4114 Games Development (see comment),1
+3.1.3 Knowledge of systems architecture,CM4025 Enterprise Web Systems,1
+3.1.4 Knowledge and understanding of mathematical and/or statistical principles ,CM4105 Honours Individual Project,1
+3.1.4 Knowledge and understanding of mathematical and/or statistical principles ,CM4106 Languages and Compilers,1
+3.1.4 Knowledge and understanding of mathematical and/or statistical principles ,CM4110 Human Computer Interaction,1
+3.1.4 Knowledge and understanding of mathematical and/or statistical principles ,CM4114 Games Development (see comment),1
+3.2.1 Specify deploy verify and maintain information systems,CM4103 Ethical Hacking (see comment),1
+3.2.1 Specify deploy verify and maintain information systems,CM4105 Honours Individual Project,1
+3.2.1 Specify deploy verify and maintain information systems,CM4108 Cloud Computing (see comment),1
+3.2.1 Specify deploy verify and maintain information systems,CM4025 Enterprise Web Systems,1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM4105 Honours Individual Project,1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM4107 Advanced Artificial Intelligence,1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM4108 Cloud Computing (see comment),1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM4110 Human Computer Interaction,1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM4114 Games Development (see comment),1
+3.2.2 Defining problems managing design process and evaluating outcomes,CM4025 Enterprise Web Systems,1
+3.2.3 System Design,CM4105 Honours Individual Project,1
+3.2.3 System Design,CM4108 Cloud Computing (see comment),1
+3.2.3 System Design,CM4110 Human Computer Interaction,1
+3.2.3 System Design,CM4114 Games Development (see comment),1
+4.1.1 Knowledge and understanding of scientific and engineering principles,CM4105 Honours Individual Project,1
+4.1.1 Knowledge and understanding of scientific and engineering principles,CM4106 Languages and Compilers,1
+4.1.1 Knowledge and understanding of scientific and engineering principles,CM4108 Cloud Computing (see comment),1
+4.1.2 Knowledge and understanding of mathematical and statistical principles,CM4105 Honours Individual Project,1
+4.1.3 Knowledge and understanding of computational modelling,CM4105 Honours Individual Project,1
+4.1.3 Knowledge and understanding of computational modelling,CM4106 Languages and Compilers,1
+4.1.3 Knowledge and understanding of computational modelling,CM4108 Cloud Computing (see comment),1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM4103 Ethical Hacking (see comment),1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM4105 Honours Individual Project,1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM4108 Cloud Computing (see comment),1
+4.2.1 Specify deploy verify and maintain computer-based systems,CM4025 Enterprise Web Systems,1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM4105 Honours Individual Project,1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM4106 Languages and Compilers,1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM4107 Advanced Artificial Intelligence,1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM4108 Cloud Computing (see comment),1
+4.2.2 Defining problems managing design process and evaluating outcomes,CM4025 Enterprise Web Systems,1
+4.2.3 Principles of appropriate supporting engineering and scientific disciplines,CM4105 Honours Individual Project,1
+4.2.3 Principles of appropriate supporting engineering and scientific disciplines,CM4106 Languages and Compilers,1
+4.2.3 Principles of appropriate supporting engineering and scientific disciplines,CM4108 Cloud Computing (see comment),1

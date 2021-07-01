@@ -1,0 +1,23 @@
+{
+  "name": "snakeysoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "processor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildfireone/SnakeySoc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wildfireone/SnakeySoc/issues"
+  },
+  "homepage": "https://github.com/wildfireone/SnakeySoc#readme",
+  "dependencies": {
+    "csv-parse": "^4.15.4",
+    "line-reader": "^0.4.0"
+  }
+}

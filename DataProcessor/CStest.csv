@@ -1,0 +1,90 @@
+source, target, value, group
+Problem Solving,CM1102,1,Problem Solving
+Problem Solving,CM1109,1,Problem Solving
+Problem Solving,CM1112,1,Problem Solving
+Problem Solving,CM1113,1,Problem Solving
+AI and Data Science,CM1102,1,AI and Data Science
+Security,CM1110,1,Security
+Security,CM1111,1,Security
+Design,CM1108,1,Design
+Design,CM1114,1,Design
+Design,CM1105,1,Design
+Professional Skills,CM1102,1,Professional Skills
+Programing,CM1109,1,Programing
+Programing,CM1112,1,Programing
+Programing,CM1113,1,Programing
+Programing,CM1114,1,Programing
+Multi Platform Development,CM1109,1,Multi Platform Development
+Multi Platform Development,CM1114,1,Multi Platform Development
+CM1102,CM2100,1,Problem Solving
+CM1109,CM2100,1,Problem Solving
+CM1112,CM2100,1,Problem Solving
+CM1113,CM2100,1,Problem Solving
+CM1102,CM3109,1,Problem Solving
+CM1109,CM3109,1,Problem Solving
+CM1112,CM3109,1,Problem Solving
+CM1113,CM3109,1,Problem Solving
+CM1102,CM2101,1,AI and Data Science
+CM1110,CM3109,1,Security
+CM1111,CM3109,1,Security
+CM1108,CM2104,1,Design
+CM1114,CM2104,1,Design
+CM1105,CM2104,1,Design
+CM1102,CM2112,1,Professional Skills
+CM1109,CM2100,1,Programing
+CM1112,CM2100,1,Programing
+CM1113,CM2100,1,Programing
+CM1114,CM2100,1,Programing
+CM1109,CM2104,1,Programing
+CM1112,CM2104,1,Programing
+CM1113,CM2104,1,Programing
+CM1114,CM2104,1,Programing
+CM1109,CM2110,1,Programing
+CM1112,CM2110,1,Programing
+CM1113,CM2110,1,Programing
+CM1114,CM2110,1,Programing
+CM1109,CM2104,1,Multi Platform Development
+CM1114,CM2104,1,Multi Platform Development
+CM1109,CM2110,1,Multi Platform Development
+CM1114,CM2110,1,Multi Platform Development
+CM2100,CM3113,1,Problem Solving
+CM3109,CM3113,1,Problem Solving
+CM2101,CM3111,1,AI and Data Science
+CM2101,CM3038,1,AI and Data Science
+CM3109,CM3104,1,Security
+CM3109,CM3105,1,Security
+CM2104,CM3110,1,Design
+CM2112,CM3130,1,Professional Skills
+CM2112,CM3132,1,Professional Skills
+CM2100,CM3110,1,Programing
+CM2104,CM3110,1,Programing
+CM2110,CM3110,1,Programing
+CM2100,CM3113,1,Programing
+CM2104,CM3113,1,Programing
+CM2110,CM3113,1,Programing
+CM2104,CM3110,1,Multi Platform Development
+CM2110,CM3110,1,Multi Platform Development
+CM3113,CM4105,1,Problem Solving
+CM3111,CM4105,1,AI and Data Science
+CM3038,CM4105,1,AI and Data Science
+CM3111,CM4107,1,AI and Data Science
+CM3038,CM4107,1,AI and Data Science
+CM3111,CM4125,1,AI and Data Science
+CM3038,CM4125,1,AI and Data Science
+CM3111,CM4126,1,AI and Data Science
+CM3038,CM4126,1,AI and Data Science
+CM3104,CM4105,1,Security
+CM3105,CM4105,1,Security
+CM3110,CM4105,1,Design
+CM3110,CM4125,1,Design
+CM3110,CM4110,1,Design
+CM3130,CM4105,1,Professional Skills
+CM3132,CM4105,1,Professional Skills
+CM3110,CM4105,1,Programing
+CM3113,CM4105,1,Programing
+CM3110,CM4106,1,Programing
+CM3113,CM4106,1,Programing
+CM3110,CM4025,1,Programing
+CM3113,CM4025,1,Programing
+CM3110,CM4105,1,Multi Platform Development
+CM3110,CM4025,1,Multi Platform Development

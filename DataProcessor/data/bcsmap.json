@@ -1,0 +1,346 @@
+{
+    "nodes": [
+        {
+            "name": "2.1.1 Knowledge and understanding of facts, concepts, principles & theories",
+            "id": "2.1.1",
+            "number": "1"
+        },
+        {
+            "name": "2.1.2 Use of such knowledge in modelling and design",
+            "id": "2.1.2",
+            "number": "2"
+        },
+        {
+            "name": "2.1.3 Problem solving strategies",
+            "id": "2.1.3",
+            "number": "3"
+        },
+        {
+            "name": "2.1.4 Analyse if/how a system meets current and future requirements",
+            "id": "2.1.4",
+            "number": "4"
+        },
+        {
+            "name": "2.1.5 Deploy theory in design, implementation and evaluation of systems",
+            "id": "2.1.5",
+            "number": "5"
+        },
+        {
+            "name": "2.1.6 Recognise legal, social, ethical & professional issues",
+            "id": "2.1.6",
+            "number": "6"
+        },
+        {
+            "name": "2.1.7 Knowledge and understanding of commercial and economic issues",
+            "id": "2.1.7",
+            "number": "7"
+        },
+        {
+            "name": "2.1.8 Knowledge of management techniques to achieve objectives",
+            "id": "2.1.8",
+            "number": "8"
+        },
+        {
+            "name": "2.1.9 Knowledge of information security issues",
+            "id": "2.1.9",
+            "number": "9"
+        },
+        {
+            "name": "2.2.1 Specify, design or construct computer-based systems",
+            "id": "2.2.1",
+            "number": "10"
+        },
+        {
+            "name": "2.2.2 Evaluate systems in terms of quality and trade-offs",
+            "id": "2.2.2",
+            "number": "11"
+        },
+        {
+            "name": "2.2.3 Recognise risk/safety for safe operation of computing and information systems",
+            "id": "2.2.3",
+            "number": "12"
+        },
+        {
+            "name": "2.2.4 Deploy tools effectively",
+            "id": "2.2.4",
+            "number": "13"
+        },
+        {
+            "name": "2.3.1 Work as a member of a development team",
+            "id": "2.3.1",
+            "number": "14"
+        },
+        {
+            "name": "2.3.2 Development of general transferable skills",
+            "id": "2.3.2",
+            "number": "15"
+        },
+        {
+            "name": "3.1.1 Deploy systems to meet business goals",
+            "id": "3.1.1",
+            "number": "16"
+        },
+        {
+            "name": "3.1.2 Methods, techniques and tools for information modelling, management and security",
+            "id": "3.1.2",
+            "number": "17"
+        },
+        {
+            "name": "3.1.3 Knowledge of systems architecture",
+            "id": "3.1.3",
+            "number": "18"
+        },
+        {
+            "name": "3.1.4 Knowledge and understanding of mathematical and/or statistical principles ",
+            "id": "3.1.4",
+            "number": "19"
+        },
+        {
+            "name": "3.2.1 Specify, deploy, verify and maintain information systems",
+            "id": "3.2.1",
+            "number": "20"
+        },
+        {
+            "name": "3.2.2 Defining problems, managing design process and evaluating outcomes",
+            "id": "3.2.2",
+            "number": "21"
+        },
+        {
+            "name": "3.2.3 System Design",
+            "id": "3.2.3",
+            "number": "22"
+        },
+        {
+            "name": "4.1.1 Knowledge and understanding of scientific and engineering principles",
+            "id": "4.1.1",
+            "number": "23"
+        },
+        {
+            "name": "4.1.2 Knowledge and understanding of mathematical and statistical principles",
+            "id": "4.1.2",
+            "number": "24"
+        },
+        {
+            "name": "4.1.3 Knowledge and understanding of computational modelling",
+            "id": "4.1.3",
+            "number": "25"
+        },
+        {
+            "name": "4.2.1 Specify, deploy, verify and maintain computer-based systems",
+            "id": "4.2.1",
+            "number": "26"
+        },
+        {
+            "name": "4.2.2 Defining problems, managing design process and evaluating outcomes",
+            "id": "4.2.2",
+            "number": "27"
+        },
+        {
+            "name": "4.2.3 Principles of appropriate supporting engineering and scientific disciplines",
+            "id": "4.2.3",
+            "number": "28"
+        },
+        {
+            "name": "CM1100 Introduction to Computing",
+            "id": "CM1100",
+            "number": "29"
+        },
+        {
+            "name": "CM1101 Computing Information Systems",
+            "id": "CM1101",
+            "number": "30"
+        },
+        {
+            "name": "CM1102 Problem Solving And Modelling",
+            "id": "CM1102",
+            "number": "31"
+        },
+        {
+            "name": "CM1103 Computer Systems & Networking",
+            "id": "CM1103",
+            "number": "32"
+        },
+        {
+            "name": "CM1104 Object Oriented Programming",
+            "id": "CM1104",
+            "number": "33"
+        },
+        {
+            "name": "CM2100 Advanced Software Design and Development",
+            "id": "CM2100",
+            "number": "34"
+        },
+        {
+            "name": "CM2101 Database Systems",
+            "id": "CM2101",
+            "number": "35"
+        },
+        {
+            "name":"CM2112 Real World Project and Professional Skills",
+            "id": "CM2112",
+            "number": "36"
+        },
+        {
+            "name": "CM2103 Routing and Switching",
+            "id": "CM2103",
+            "number": "37"
+        },
+        {
+            "name": "CM2110 Internet of Things",
+            "id": "CM2110",
+            "number": "38"
+        },
+        {
+            "name": "CM2104 Dynamic Web Development",
+            "id": "CM2104",
+            "number": "39"
+        },
+        {
+            "name": "CM3102 Operating Systems",
+            "id": "CM3102",
+            "number": "40"
+        },
+        {
+            "name": "CM3104 Computer Security and Cryptography",
+            "id": "CM3104",
+            "number": "41"
+        },
+        {
+            "name": "CM3105 Web Security (see comment)",
+            "id": "CM3105",
+            "number": "42"
+        },
+        {
+            "name": "CM3108 Software Engineering And Project Management",
+            "id": "CM3108",
+            "number": "43"
+        },
+        {
+            "name": "CM3110 Mobile App Development",
+            "id": "CM3110",
+            "number": "44"
+        },
+        {
+            "name": "CM3111 Big Data Analytics",
+            "id": "CM3111",
+            "number": "45"
+        },
+        {
+            "name": "CM3115 C++ for Graphics",
+            "id": "CM3115",
+            "number": "46"
+        },
+        {
+            "name": "CM3113 Concurrent Programming",
+            "id": "CM3113",
+            "number": "47"
+        },
+        {
+            "name": "CM3116 Graphics Development",
+            "id": "CM3116",
+            "number": "48"
+        },
+        {
+            "name": "CM3038 Artificial Intellikgence for Problem Solving",
+            "id": "CM3038",
+            "number": "49"
+        },
+        {
+            "name": "CM3112 3D Modelling",
+            "id": "CM3112",
+            "number": "50"
+        },
+        {
+            "name": "CM4103 Ethical Hacking",
+            "id": "CM4103",
+            "number": "51"
+        },
+        {
+            "name": "CM4105 Honours Individual Project",
+            "id": "CM4105",
+            "number": "52"
+        },
+        {
+            "name": "CM4106 Languages and Compilers",
+            "id": "CM4106",
+            "number": "53"
+        },
+        {
+            "name": "CM4107 Advanced Artificial Intelligence",
+            "id": "CM4107",
+            "number": "54"
+        },
+        {
+            "name": "CM4108 Cloud Computing",
+            "id": "CM4108",
+            "number": "55"
+        },
+        {
+            "name": "CM4110 Human Computer Interaction",
+            "id": "CM4110",
+            "number": "56"
+        },
+        {
+            "name": "CM4114 Games Development",
+            "id": "CM4114",
+            "number": "57"
+        },
+        {
+            "name": "CM4025 Enterprise Web Systems",
+            "id": "CM4025",
+            "number": "57"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "value": 1,
+            "target": 29
+        },
+        {
+            "source": 0,
+            "value": 1,
+            "target": 30
+        },
+        {
+            "source": 0,
+            "value": 1,
+            "target": 31
+        },
+        {
+            "source": 0,
+            "value": 1,
+            "target": 32
+        },
+        {
+            "source": 0,
+            "value": 1,
+            "target": 33
+        },
+        {
+            "source": 29,
+            "value": 1,
+            "target": 34
+        },
+        {
+            "source": 30,
+            "value": 1,
+            "target": 35
+        },
+        {
+            "source": 31,
+            "value": 1,
+            "target": 37
+        },
+        {
+            "source": 32,
+            "value": 1,
+            "target": 38
+        },
+        {
+            "source": 33,
+            "value": 1,
+            "target": 39
+        }
+    ]
+}
